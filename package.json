@@ -1,0 +1,22 @@
+{
+  "name": "discord-username-checker",
+  "version": "2.1.0",
+  "description": "High-end in-client Discord username checker with minimalist Obsidian Glass UI and zero-token native DOM automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Ready to inject in Discord DevTools Console\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "username-checker",
+    "pomelo",
+    "discord-checker",
+    "in-client",
+    "devtools",
+    "console-script",
+    "automation",
+    "obsidian-glass"
+  ],
+  "author": "Tempest",
+  "license": "MIT"
+}
